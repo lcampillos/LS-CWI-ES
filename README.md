@@ -5,3 +5,9 @@ Corpus and notebook consisting of a total of 180 clinical trials (CTs), consent 
 # Acknowledgements
 
 This code is adapted from https://github.com/huggingface/notebooks/blob/main/examples/token_classification.ipynb
+
+# How to cite
+
+If you use this data, please cite the MA thesis where the script was made available as below.
+
+Ortega-Riba, F. (2024). _Lexical Simplification in Spanish Texts for Patients: The Complex Word Identification Task_ [Master Thesis, Universidad Complutense de Madrid]. Docta Complutense.
