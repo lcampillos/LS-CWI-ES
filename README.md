@@ -11,3 +11,13 @@ This code is adapted from https://github.com/huggingface/notebooks/blob/main/exa
 If you use this data, please cite the MA thesis where the script was made available as below.
 
 Ortega-Riba, F. (2024). _Lexical Simplification in Spanish Texts for Patients: The Complex Word Identification Task_ [Master Thesis, Universidad Complutense de Madrid]. Docta Complutense.
+
+```
+@article{2024CWI,
+  title={Lexical Simplification in Spanish Texts For Patients: The Complex Word Identification Task},
+  title={Procesamiento del Lenguaje Natural},
+  volume={Under review},
+  year={2024},
+  publisher={Sociedad Espa{\~n}ola para el Procesamiento del Lenguaje Natural}
+}
+```
