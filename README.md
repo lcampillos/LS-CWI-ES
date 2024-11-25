@@ -15,9 +15,7 @@ Ortega-Riba, F. (2024). _Lexical Simplification in Spanish Texts for Patients: T
 ```
 @article{2024CWI,
   title={Lexical Simplification in Spanish Texts For Patients: The Complex Word Identification Task},
-  title={Procesamiento del Lenguaje Natural},
   volume={Under review},
-  year={2024},
-  publisher={Sociedad Espa{\~n}ola para el Procesamiento del Lenguaje Natural}
+  year={2024}
 }
 ```
