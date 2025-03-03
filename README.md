@@ -11,9 +11,11 @@ This code is adapted from https://github.com/huggingface/notebooks/blob/main/exa
 If you use this data, please cite as follows:
 
 ```
-@article{2024CWI,
+@article{2025CWI,
   title={Complex Word Identification for Lexical Simplification in Spanish Texts for Patients},
-  volume={Under review},
-  year={2024}
+  author={Ortega-Riba, Federico and Campillos-Llanos, Leonardo and Samy, Doaa},
+  journal={Procesamiento del lenguaje natural},
+  volume={74},
+  year={2025}
 }
 ```
